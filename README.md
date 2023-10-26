@@ -1,5 +1,4 @@
 # RPG Name Genie
-# RPG Name Generator
 
 [![Version](https://img.shields.io/badge/Version-2.0.0.21-brightgreen.svg)](https://github.com/yourusername/your-repo)
 [![Maintenance](https://img.shields.io/badge/Maintained-Actively%20Maintained-blue.svg)](https://github.com/yourusername/your-repo)
@@ -49,4 +48,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ---
 
-**Disclaimer:** While using this tool, always adhere to privacy and copyright guidelines when adding names to the database. This tool is suitable for both personal and commercial use, with a mandatory requirement for attribution in the form of a credit that reads, "Names generated using RPG Name Generator by Kaotickj."
+**Disclaimer:** While using this tool, always adhere to privacy and copyright guidelines when adding names to the database. This tool is suitable for both personal and commercial use, with a mandatory requirement for attribution in the form of a credit that reads, "Names generated using RPG Name Genie by Kaotickj."
