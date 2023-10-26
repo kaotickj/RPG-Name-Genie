@@ -31,7 +31,7 @@ For users who prefer a standalone application:
 
 ## Contributing
 
-We welcome contributions to improve this RPG Name Generator. Please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions to improve this RPG Name Genie. Please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
