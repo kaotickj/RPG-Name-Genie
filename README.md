@@ -11,7 +11,7 @@ Generate captivating and immersive names for your RPG characters effortlessly. U
 2. Ensure you have Python installed.
 3. Be sure you have the included `namegen_names.db` file in the same directory as the namegenie.py or executable.
 4. Choose the gender and click "Generate" to obtain a character name.
-5. Optional: Add more names to the database using the "Add Names to the Database" link.
+5. Optional: Add more names to the database using the "Add Names" tab link.
 
 ## Dependencies
 
