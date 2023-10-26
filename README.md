@@ -9,18 +9,9 @@ Generate captivating and immersive names for your RPG characters effortlessly. U
 
 1. Clone the repository to your local environment.
 2. Ensure you have Python installed.
-3. Import the included SQLite database or create your own using the provided data.
-   - **Importing the Included Database:**
-     - Locate the included `namegen_names.db` file in the repository.
-     - Use a tool like [SQLiteStudio](https://sqlitestudio.pl/) or the SQLite command-line utility to import the database. For example, using the SQLite command-line:
-       ```bash
-       sqlite3 namegen_names.db < namegen_names.sql
-       ```
-4. Update the database connection configuration in `config.php`.
-5. Start the PHP development server: `php -S localhost:8000`.
-6. Access the RPG Name Generator at `http://localhost:8000/index.php`.
-7. Choose the gender and click "Generate" to obtain a character name.
-8. Optional: Add more names to the database using the "Add Names to the Database" link.
+3. Be sure you have the included `namegen_names.db` file in the same directory as the namegenie.py or executable.
+4. Choose the gender and click "Generate" to obtain a character name.
+5. Optional: Add more names to the database using the "Add Names to the Database" link.
 
 ## Dependencies
 
@@ -34,7 +25,7 @@ Generate captivating and immersive names for your RPG characters effortlessly. U
 
 For users who prefer a standalone application:
 
-- [**Windows Binary with Separate Database**](https://github.com/kaotickj/RPG-Name-Genie/tree/main/package_exe-db): This version is built using Python and PyInstaller. It requires a separate database for operation.
+- [**Windows Binary with Separate Database**](https://github.com/kaotickj/RPG-Name-Genie/tree/main/package_exe-db): This version requires the included separate database for operation.
 
 - [**Standalone Windows Binary with Embedded Database**](https://github.com/kaotickj/RPG-Name-Genie/tree/main/standalone_exe): This version is a standalone Windows executable created with ExeOutput for PHP. The database is embedded within the executable, making it more accessible for users who may not be familiar with running Python scripts or managing separate databases.
 
