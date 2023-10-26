@@ -1,7 +1,9 @@
 # RPG Name Genie
 
-[![Version](https://img.shields.io/badge/Version-2.0.0.21-brightgreen.svg)](https://github.com/yourusername/your-repo)
-[![Maintenance%20Level](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-blue.svg)](https://github.com/yourusername/your-repo)
+[![Version](https://img.shields.io/badge/Version-2.0.0.21-brightgreen.svg)](https://github.com/kaotickj/RPG-Name-Genie)
+[![Maintenance](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-blue.svg)](https://github.com/kaotickj/RPG-Name-Genie)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://github.com/kaotickj/RPG-Name-Genie/blob/main/LICENSE)
+[![Language](https://img.shields.io/badge/Language-Python%203.11-blue.svg)](https://www.python.org/downloads/release/python-311)
 
 Generate captivating and immersive names for your RPG characters effortlessly. Unleash your imagination and enhance your storytelling with unique and fitting names.
 
