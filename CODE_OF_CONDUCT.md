@@ -2,11 +2,11 @@
 
 ## Introduction
 
-We, the contributors and maintainers of RPG Name Generator, are committed to fostering an open and welcoming environment for all participants. We aim to provide a positive and inclusive space for collaboration and cooperation.
+We, the contributors and maintainers of RPG Name Genie, are committed to fostering an open and welcoming environment for all participants. We aim to provide a positive and inclusive space for collaboration and cooperation.
 
 This code of conduct outlines our expectations for all individuals who engage with this project, as well as the consequences for unacceptable behavior.
 
-We invite all participants to assist us in creating a respectful and considerate environment. Together, we can ensure that RPG Name Generator remains an excellent and welcoming project for everyone.
+We invite all participants to assist us in creating a respectful and considerate environment. Together, we can ensure that RPG Name Genie remains an excellent and welcoming project for everyone.
 
 ## Expected Behavior
 
@@ -35,7 +35,7 @@ If you experience or witness behavior that violates this code of conduct, please
 
 The project team is obligated to maintain the confidentiality of the person who reports an incident. We will take action to address the situation, which may include issuing warnings, temporary or permanent bans from the project, or other appropriate responses.
 
-We value your cooperation in upholding this code of conduct, and we appreciate your help in keeping RPG Name Generator a welcoming and respectful space for all participants.
+We value your cooperation in upholding this code of conduct, and we appreciate your help in keeping RPG Name Genie a welcoming and respectful space for all participants.
 
 ## Attribution
 

@@ -5,7 +5,7 @@ import random
 
 class NameGeneratorApp(wx.App):
     def OnInit(self):
-        self.frame = MainFrame(None, title="Name Generator")
+        self.frame = MainFrame(None, title="RPG Name Genie")
         self.frame.Show()
         return True
 
@@ -130,7 +130,7 @@ class AboutTab(wx.Panel):
     def __init__(self, parent):
         super(AboutTab, self).__init__(parent)
 
-        about_text = """RPG Name Generator
+        about_text = """RPG Name Genie
 
 Author: Kaotick Jay
 GitHub: https://github.com/kaotickj

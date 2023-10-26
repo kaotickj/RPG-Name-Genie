@@ -9,7 +9,7 @@ Generate captivating and immersive names for your RPG characters effortlessly. U
 
 ### Screenshots
 
-![RPG Name Generator Screenshot](assets/img/namegenie-screen.png)
+![RPG Name Genie Screenshot](assets/img/namegenie-screen.png)
 - [Screenshot 2](assets/img/namegenie-screen2.png)
 - [Screenshot 3](assets/img/namegenie-screen3.png)
 
@@ -52,7 +52,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ### Demo
 
-You can try the RPG Name Generator in action by visiting our [online demo](https://production-kdg.ddns.net/namegen/).
+You can try the RPG Name Genie in action by visiting our [online demo](https://production-kdg.ddns.net/namegen/).
 
 ---
 
