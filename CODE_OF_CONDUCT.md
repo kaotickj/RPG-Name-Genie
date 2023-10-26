@@ -31,7 +31,7 @@ Unacceptable behavior includes but is not limited to:
 
 ## Reporting and Enforcement
 
-If you experience or witness behavior that violates this code of conduct, please report it to the project maintainers at [kaotickj@gmail.com]. All reports will be reviewed and investigated promptly and confidentially.
+If you experience or witness behavior that violates this code of conduct, please report it to the project maintainers at [the.real.kaotickj@gmail.com]. All reports will be reviewed and investigated promptly and confidentially.
 
 The project team is obligated to maintain the confidentiality of the person who reports an incident. We will take action to address the situation, which may include issuing warnings, temporary or permanent bans from the project, or other appropriate responses.
 
