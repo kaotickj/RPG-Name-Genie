@@ -9,7 +9,7 @@ Generate captivating and immersive names for your RPG characters effortlessly. U
 ## Usage
 
 1. Clone the repository to your local environment.
-2. Ensure you have PHP installed.
+2. Ensure you have Python installed.
 3. Import the included SQLite database or create your own using the provided data.
    - **Importing the Included Database:**
      - Locate the included `namegen_names.db` file in the repository.
@@ -25,8 +25,19 @@ Generate captivating and immersive names for your RPG characters effortlessly. U
 
 ## Dependencies
 
-- PHP (>= 7.0)
-- SQLite3 extension for PHP
+- Python (>= 3.0)
+- wxPython (install using pip install wxpython)
+- SQLite3 (standard Python package)
+- Random (standard Python package)
+
+
+## Standalone Windows Executables
+
+For users who prefer a standalone application:
+
+- [**Windows Binary with Separate Database**](https://github.com/kaotickj/RPG-Name-Genie/tree/main/package_exe-db): This version is built using Python and PyInstaller. It requires a separate database for operation.
+
+- [**Standalone Windows Binary with Embedded Database**](https://github.com/kaotickj/RPG-Name-Genie/tree/main/standalone_exe): This version is a standalone Windows executable created with ExeOutput for PHP. The database is embedded within the executable, making it more accessible for users who may not be familiar with running Python scripts or managing separate databases.
 
 ## Contributing
 
@@ -34,8 +45,8 @@ We welcome contributions to improve this RPG Name Generator. Please follow our [
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Disclaimer:** Always respect privacy and copyrights when adding names to the database. This tool is for personal and non-commercial use.
+**Disclaimer:** While using this tool, always adhere to privacy and copyright guidelines when adding names to the database. This tool is suitable for both personal and commercial use, with a mandatory requirement for attribution in the form of a credit that reads, "Names generated using RPG Name Generator by Kaotickj."
