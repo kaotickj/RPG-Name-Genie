@@ -1,7 +1,7 @@
 # RPG Name Genie
 
 [![Version](https://img.shields.io/badge/Version-2.0.0.21-brightgreen.svg)](https://github.com/yourusername/your-repo)
-[![Maintenance%20Level](https://img.shields.io/badge/Maintained-Actively%20Maintained-blue.svg)](https://github.com/yourusername/your-repo)
+[![Maintenance%20Level](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-blue.svg)](https://github.com/yourusername/your-repo)
 
 Generate captivating and immersive names for your RPG characters effortlessly. Unleash your imagination and enhance your storytelling with unique and fitting names.
 
