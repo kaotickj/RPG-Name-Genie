@@ -43,6 +43,10 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expect
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
+### Demo
+
+You can try the RPG Name Generator in action by visiting our [online demo](https://production-kdg.ddns.net/namegen/).
+
 ---
 
 **Disclaimer:** While using this tool, always adhere to privacy and copyright guidelines when adding names to the database. This tool is suitable for both personal and commercial use, with a mandatory requirement for attribution in the form of a credit that reads, "Names generated using RPG Name Genie by Kaotickj."
