@@ -33,6 +33,10 @@ For users who prefer a standalone application:
 
 We welcome contributions to improve this RPG Name Genie. Please follow our [contribution guidelines](CONTRIBUTING.md).
 
+## Code of Conduct
+
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expected behavior for all participants in this project.
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.

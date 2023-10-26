@@ -17,7 +17,8 @@ To contribute to RPG Name Genie, follow these steps:
 
 ## Code of Conduct
 
-Please note that we have a Code of Conduct in place. We expect all contributors to follow it in all interactions within the project's community.
+Please note that we have a Code of Conduct in place. We expect all contributors to follow it in all interactions within the project's community. Please review our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expected behavior for all participants in this project.
+
 
 ## Report Bugs or Issues
 
@@ -25,7 +26,7 @@ If you encounter bugs or have issues, please create a new issue on GitHub. Be su
 
 ## Feature Requests
 
-We welcome suggestions and feature requests. If you have an idea to improve RPG Name Genie, please create a new issue on GitHub with a clear description of the feature.
+We welcome suggestions and feature requests. If you have an idea to improve RPG Name Genie, please create a new issue on GitHub with a clear description of the feature. 
 
 ## License
 
