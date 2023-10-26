@@ -30,7 +30,7 @@ Generate captivating and immersive names for your RPG characters effortlessly. U
 - Random (standard Python package)
 
 
-## Standalone Windows Executables
+## Windows Executables
 
 For users who prefer a standalone application:
 
