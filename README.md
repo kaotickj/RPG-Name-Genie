@@ -7,6 +7,11 @@
 
 Generate captivating and immersive names for your RPG characters effortlessly. Unleash your imagination and enhance your storytelling with unique and fitting names.
 
+### Screenshot
+
+![RPG Name Generator Screenshot](assets/img/namegenie-screen.png)
+
+
 ## Usage
 
 1. Clone the repository to your local environment.
